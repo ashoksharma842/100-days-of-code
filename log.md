@@ -1,15 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 17, 2022
+### Day 1: 08-02-2022
 
-**Today's Progress**: setup for development
+**Today's Progress**: setup for development, testing file size and memmories of NUC240 microcontroller
 
-**Thoughts:** I am not sure how git works. Struggled to push through GIT GUI.
+**Thoughts:** 
 
 **Link to work:** none
-
-### Day 1: January 18, 2022
-
-**Today's Progress**: testing git push
-
-**Thoughts:** Damn this is not working! 
