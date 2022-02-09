@@ -8,3 +8,13 @@
 Viewing RAM was easy but it took time to reflact the memory in flash.
 
 **Link to work:** none
+
+### Day 2: 09-02-2022
+
+**Today's Progress**: I2C communication failed to initiate.
+
+**Thoughts:** I tried to do I2C communication but initialization failed.
+Also I accidently deleted the day1 folder, so I have to get that back from git.
+Figuring that out also took some time.
+
+**Link to work:** none
