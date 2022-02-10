@@ -17,4 +17,13 @@ Viewing RAM was easy but it took time to reflact the memory in flash.
 Also I accidently deleted the day1 folder, so I have to get that back from git.
 Figuring that out also took some time.
 
-**Link to work:** none
+### Day 2: 09-02-2022
+
+**Today's Progress**: I2C communication configuration.
+
+**Thoughts:** I2C configurated to 100kbps.
+The datasheet says config MFP, enable clock and then reset module for initialization.
+Speed was not getting set. Found a way to look into the peripharal registers in eclipse.
+After some time got to know that reset module stops it.
+After skipping the reset step, I2C configured properly.
+
